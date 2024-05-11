@@ -1,0 +1,17 @@
+body {
+  background-color: #f0f4f8;
+  color: #333;
+  font-family: "Arial", sans-serif;
+}
+
+.container {
+  padding: 20px;
+}
+
+.heading {
+  color: #2a69ac;
+}
+
+.text {
+  color: #555;
+}
